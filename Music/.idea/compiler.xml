@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Music" />
+        <module name="Music_Common" />
+        <module name="Music_Manager_Mapper" />
+        <module name="Music_Manager_Pojo" />
+        <module name="Music_Manager_Service" />
+        <module name="Music_Manager_Web" />
+        <module name="Music_SSO" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/Music_Common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Music_Manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Music_Manager/Music_Manager_Mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Music_Manager/Music_Manager_Pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Music_Manager/Music_Manager_Service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Music_Manager/Music_Manager_Web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Music_Parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Music_SSO" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
