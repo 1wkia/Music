@@ -17,8 +17,11 @@
 
     <!--视图解析器-->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
-        <property name="prefix" value="/WEB-INF/page/"/>
+        <property name="prefix" value="/WEB-INF/jsp/"/>
         <property name="suffix" value=".jsp"/>
     </bean>
 
+    <!-- 默认是拦截除了.jsp结尾的所有内容 所以查找静态资源 只要发现请求路径符合mapping的 全去location中去找-->
+    <mvc:resources location="/WEB-INF/js/" mapping="/js/**"></mvc:resources>
+    <mvc:resources location="/WEB-INF/css/" mapping="/css/**"></mvc:resources>
 </beans>
